@@ -9,6 +9,10 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
+    "legra": "^0.3.0",
+    "overlayscrollbars": "^1.13.1",
+    "textblock": "^0.12.3",
+    "tone": "^14.8.31",
     "vue": "^2.6.11",
     "vue-router": "^3.2.0"
   },
@@ -23,6 +27,7 @@
     "eslint-plugin-prettier": "^3.3.1",
     "eslint-plugin-vue": "^6.2.2",
     "prettier": "^2.2.1",
+    "shave": "^2.5.10",
     "vue-template-compiler": "^2.6.11"
   }
 }
